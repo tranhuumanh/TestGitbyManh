@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// MyCalculator Class
 public class MyCalculator implements AdvancedArithmetic{
     @Override
     public int divisor_sum(int n) {
